@@ -1,0 +1,16 @@
+body {
+    background-image: url(/img/background.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.logo {
+    max-width: 12em;
+}
+.partner-logo {
+    max-height: 5.5em;
+}
+.legal-copy {
+    font-size: 0.85em;
+}
